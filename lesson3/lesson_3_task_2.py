@@ -14,4 +14,4 @@ phone5 = ("Samsung", "S21FE", "+79051236789")
 catalog = [phone1, phone2, phone3, phone4, phone5]
 
 for phones in catalog:
-    print(phones)
+    print(phones)   
