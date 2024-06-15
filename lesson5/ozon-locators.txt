@@ -1,0 +1,5 @@
+Локатор кнопки Войти - $$('#ozonTagManagerApp')
+Локатор кнопки Заказы - $$('[href:"https://www.ozon.ru/my/orderlist"]')
+Локатор ссылки OZON Job (в футере) - $$('img[alt="Ozon Job"]')
+Локатор выбора валюты (верхний левый угол страницы) - $('button[data-widget="selectedCurrency"]')
+Локатор выпадашки Везде (в поисковой строке) - $('span[title="Везде"]')
