@@ -3,4 +3,4 @@ def bank(a,time):
         a = (a * 1.1)
     return a
 
-print(bank(a=1000000,time=3))
+print(bank(1000000, 3))
