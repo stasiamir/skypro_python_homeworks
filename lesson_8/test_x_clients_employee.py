@@ -344,3 +344,4 @@ def test_patch_employee_wrong_id():
     # Удалить компанию
     assert result["statusCode"] == 404
     assert result["message"] == 'Not Found'
+    
