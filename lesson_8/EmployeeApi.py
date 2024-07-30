@@ -139,4 +139,3 @@ class EmployeeApi:
     def get_list_employee_exp(self, params_to_add):
         resp = requests.get(self.url + '/employee', params=params_to_add)
         return resp
-    
